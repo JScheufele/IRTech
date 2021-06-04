@@ -1,0 +1,105 @@
+@model IEnumerable<MvcProject.Models.StatusHistory>
+
+
+@{
+
+    ViewData["Title"] = "Status";
+
+}
+<h1>Status</h1>
+<table class="table table-striped" >
+    <thead class="thread-dark">
+        <tr style="background-color:#000000">
+            <th class="text-light">
+                Date Time
+            </th>
+            <th class="text-light">
+                @Html.DisplayNameFor(model => model.status.SystemUnit)
+            </th>
+            <th class="text-light">
+               @Html.DisplayNameFor(model => model.status.Peripherals)
+            </th>
+            <th class="text-light">
+                @Html.DisplayNameFor(model => model.status.Call)
+            </th>
+            <th class="text-light">
+               @Html.DisplayNameFor(model => model.status.Network)
+            </th>
+            <th class="text-light">
+                @Html.DisplayNameFor(model => model.status.Capabilities)
+            </th>
+            <th class="text-light">
+                @Html.DisplayNameFor(model => model.status.Time)
+            </th>
+            <th class="text-light">
+                @Html.DisplayNameFor(model => model.status.UserInterface.ContactInfo)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RequestDate)             
+            </td>
+            <td>
+                <b>Product ID:</b> @Html.DisplayFor(modelItem => item.status.SystemUnit.ProductId)
+                <br>
+                <b>Product Platform:</b> @Html.DisplayFor(modelItem => item.status.SystemUnit.ProductPlatform)
+                <br>
+                <b>Product Type:</b> @Html.DisplayFor(modelItem => item.status.SystemUnit.ProductType)
+                <br>
+                <b>Software Version:</b> @Html.DisplayFor(modelItem => item.status.SystemUnit.Software.Version)
+                <br>
+                <b>Diagnostics Item:</b> @Html.DisplayFor(modelItem => item.status.SystemUnit.Diagnostics.item)
+                <br>
+                <b>Number of Active Calls:</b> @Html.DisplayFor(modelItem => item.status.SystemUnit.State.NumberOfActiveCalls)          
+            </td>
+            <td>
+               @for (int i = 0; i<item.status.Peripherals.Count(); i++)
+               {
+                   if(item.status.Peripherals[i].Type=="Camera"){
+                      <b>Camera:</b> @Html.ValueFor(modelItem=>item.status.Peripherals[i].Name)
+                      <br>
+                      <b>ID:</b> @Html.ValueFor(modelItem=>item.status.Peripherals[i].ID)
+                      <br>
+                      <b>Software Info:</b> @Html.ValueFor(modelItem=>item.status.Peripherals[i].SoftwareInfo)
+                      <br>
+                      <b>Status:</b> @Html.ValueFor(modelItem=>item.status.Peripherals[i].Status)
+                   }
+               }
+            </td>
+            <td>
+                <b>Type:</b> @Html.DisplayFor(model => item.status.Call.CallType)
+                <br>
+                <b>Status: </b> @Html.DisplayFor(model => item.status.Call.Status)
+                <br>
+            </td>
+            <td>
+               <b>IPv4 Address:</b> @Html.DisplayFor(modelItem => item.status.Network.IPv4.Address)
+               <br>
+               <b>Mac Address:</b> @Html.DisplayFor(modelItem => item.status.Network.Ethernet.MacAddress)
+               <br>
+               @if(item.status.Network.IPv6.Address==""){
+                   <b>IPv6 Address: Not Found</b>
+               }
+               else{  
+                   <b>IPv6 Address:</b> @Html.DisplayFor(modelItem => item.status.Network.IPv6.Address)
+               }
+            </td>
+            <td>
+               <b>Max Calls:</b> @Html.DisplayFor(model => item.status.Capabilities.Conference)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.status.Time.SystemTime)
+            </td>
+            <td>
+                <b>Contact Method:</b> @Html.DisplayFor(model => item.status.UserInterface.ContactInfo.ContactMethod)
+                <br>
+                <b>Name and Number:</b> @Html.DisplayFor(model => item.status.UserInterface.ContactInfo.Name)
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,342 @@
+C:\Users\Jordan\Documents\mvcProd\MvcProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jordan\Documents\mvcProd\MvcProject\bin\Debug\net5.0\appsettings.json
+C:\Users\Jordan\Documents\mvcProd\MvcProject\bin\Debug\net5.0\MvcProject.exe
+C:\Users\Jordan\Documents\mvcProd\MvcProject\bin\Debug\net5.0\MvcProject.deps.json
+C:\Users\Jordan\Documents\mvcProd\MvcProject\bin\Debug\net5.0\MvcProject.runtimeconfig.json
+C:\Users\Jordan\Documents\mvcProd\MvcProject\bin\Debug\net5.0\MvcProject.runtimeconfig.dev.json
+C:\Users\Jordan\Documents\mvcProd\MvcProject\bin\Debug\net5.0\MvcProject.dll
+C:\Users\Jordan\Documents\mvcProd\MvcProject\bin\Debug\net5.0\ref\MvcProject.dll
+C:\Users\Jordan\Documents\mvcProd\MvcProject\bin\Debug\net5.0\MvcProject.pdb
+C:\Users\Jordan\Documents\mvcProd\MvcProject\bin\Debug\net5.0\MvcProject.Views.dll
+C:\Users\Jordan\Documents\mvcProd\MvcProject\bin\Debug\net5.0\MvcProject.Views.pdb
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.csproj.AssemblyReference.cache
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.AssemblyInfoInputs.cache
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.AssemblyInfo.cs
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.RazorAssemblyInfo.cache
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.RazorAssemblyInfo.cs
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\staticwebassets\MvcProject.StaticWebAssets.Manifest.cache
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\staticwebassets\MvcProject.StaticWebAssets.xml
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\scopedcss\bundle\MvcProject.styles.css
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.TagHelpers.input.cache
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.TagHelpers.output.cache
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.RazorCoreGenerate.cache
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.RazorTargetAssemblyInfo.cache
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.RazorTargetAssemblyInfo.cs
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.Views.pdb
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.dll
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\ref\MvcProject.dll
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.pdb
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.genruntimeconfig.cache
+C:\Users\Jordan\Documents\mvcProd\MvcProject\obj\Debug\net5.0\MvcProject.csproj.CopyComplete
+C:\MvcProject\bin\Debug\net5.0\appsettings.Development.json
+C:\MvcProject\bin\Debug\net5.0\appsettings.json
+C:\MvcProject\bin\Debug\net5.0\MvcProject.exe
+C:\MvcProject\bin\Debug\net5.0\MvcProject.deps.json
+C:\MvcProject\bin\Debug\net5.0\MvcProject.runtimeconfig.json
+C:\MvcProject\bin\Debug\net5.0\MvcProject.runtimeconfig.dev.json
+C:\MvcProject\bin\Debug\net5.0\MvcProject.dll
+C:\MvcProject\bin\Debug\net5.0\ref\MvcProject.dll
+C:\MvcProject\bin\Debug\net5.0\MvcProject.pdb
+C:\MvcProject\bin\Debug\net5.0\MvcProject.Views.dll
+C:\MvcProject\bin\Debug\net5.0\MvcProject.Views.pdb
+C:\MvcProject\obj\Debug\net5.0\MvcProject.csproj.AssemblyReference.cache
+C:\MvcProject\obj\Debug\net5.0\MvcProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\MvcProject\obj\Debug\net5.0\MvcProject.AssemblyInfoInputs.cache
+C:\MvcProject\obj\Debug\net5.0\MvcProject.AssemblyInfo.cs
+C:\MvcProject\obj\Debug\net5.0\MvcProject.csproj.CoreCompileInputs.cache
+C:\MvcProject\obj\Debug\net5.0\MvcProject.MvcApplicationPartsAssemblyInfo.cache
+C:\MvcProject\obj\Debug\net5.0\MvcProject.RazorAssemblyInfo.cache
+C:\MvcProject\obj\Debug\net5.0\MvcProject.RazorAssemblyInfo.cs
+C:\MvcProject\obj\Debug\net5.0\staticwebassets\MvcProject.StaticWebAssets.Manifest.cache
+C:\MvcProject\obj\Debug\net5.0\staticwebassets\MvcProject.StaticWebAssets.xml
+C:\MvcProject\obj\Debug\net5.0\scopedcss\bundle\MvcProject.styles.css
+C:\MvcProject\obj\Debug\net5.0\MvcProject.TagHelpers.input.cache
+C:\MvcProject\obj\Debug\net5.0\MvcProject.TagHelpers.output.cache
+C:\MvcProject\obj\Debug\net5.0\MvcProject.RazorCoreGenerate.cache
+C:\MvcProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\MvcProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\MvcProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\MvcProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\MvcProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\MvcProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\MvcProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\MvcProject\obj\Debug\net5.0\MvcProject.RazorTargetAssemblyInfo.cache
+C:\MvcProject\obj\Debug\net5.0\MvcProject.RazorTargetAssemblyInfo.cs
+C:\MvcProject\obj\Debug\net5.0\MvcProject.Views.pdb
+C:\MvcProject\obj\Debug\net5.0\MvcProject.dll
+C:\MvcProject\obj\Debug\net5.0\ref\MvcProject.dll
+C:\MvcProject\obj\Debug\net5.0\MvcProject.pdb
+C:\MvcProject\obj\Debug\net5.0\MvcProject.genruntimeconfig.cache
+C:\MvcProject\obj\Debug\net5.0\MvcProject.csproj.CopyComplete
+C:\MvcProject\bin\Debug\net5.0\Humanizer.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\MvcProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\MvcProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\MvcProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\MvcProject\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\MvcProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\MvcProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\MvcProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\MvcProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MvcProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\MvcProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\MvcProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MvcProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\MvcProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MvcProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MvcProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MvcProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MvcProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MvcProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MvcProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MvcProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MvcProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MvcProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MvcProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MvcProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MvcProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MvcProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MvcProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MvcProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MvcProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MvcProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MvcProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MvcProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MvcProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MvcProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MvcProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\MvcProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\MvcProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MvcProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MvcProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\MvcProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\MvcProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\MvcProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\MvcProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\MvcProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MvcProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MvcProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MvcProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MvcProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MvcProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MvcProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MvcProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MvcProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MvcProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MvcProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\MvcProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MvcProject\obj\Debug\net5.0\Razor\Views\Status\Index.cshtml.g.cs
+C:\MvcProject\obj\Debug\net5.0\Razor\Views\Status\Privacy.cshtml.g.cs
+C:\MvcProject\obj\Debug\net5.0\Razor\Views\Details\Index.cshtml.g.cs
+C:\MvcProject\obj\Debug\net5.0\Razor\Views\Details\Privacy.cshtml.g.cs
+C:\MvcProject\obj\Debug\net5.0\Razor\Views\Status\Status.cshtml.g.cs
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\appsettings.Development.json
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\appsettings.json
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\MvcProject.exe
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\MvcProject.deps.json
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\MvcProject.runtimeconfig.json
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\MvcProject.runtimeconfig.dev.json
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\MvcProject.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\ref\MvcProject.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\MvcProject.pdb
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\MvcProject.Views.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\MvcProject.Views.pdb
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Humanizer.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\IR Tech Assignment Jordan Scheufele\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.csproj.AssemblyReference.cache
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.AssemblyInfoInputs.cache
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.AssemblyInfo.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.csproj.CoreCompileInputs.cache
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.MvcApplicationPartsAssemblyInfo.cache
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.RazorAssemblyInfo.cache
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.RazorAssemblyInfo.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\staticwebassets\MvcProject.StaticWebAssets.Manifest.cache
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\staticwebassets\MvcProject.StaticWebAssets.xml
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\scopedcss\bundle\MvcProject.styles.css
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.TagHelpers.input.cache
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.TagHelpers.output.cache
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.RazorCoreGenerate.cache
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\Razor\Views\Details\Index.cshtml.g.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\Razor\Views\Details\Privacy.cshtml.g.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\Razor\Views\Status\Index.cshtml.g.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\Razor\Views\Status\Privacy.cshtml.g.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\Razor\Views\Status\Status.cshtml.g.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.RazorTargetAssemblyInfo.cache
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.RazorTargetAssemblyInfo.cs
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.Views.pdb
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.csproj.CopyComplete
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.dll
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\ref\MvcProject.dll
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.pdb
+C:\IR Tech Assignment Jordan Scheufele\obj\Debug\net5.0\MvcProject.genruntimeconfig.cache

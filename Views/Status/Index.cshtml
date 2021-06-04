@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MvcProject.Models.StatusHistory>
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Home Page";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+
+<div>
+    <h1>Below shows the successful requests every minute</h1>
+</div>
+<body>
+    <div id="status">
+        @await Html.PartialAsync("Status", Model)
+    </div>
+    <script type="text/javascript">
+        var test = "@MvcProject.Models.GloabalVariables.NewHistory.Count()";
+        if (test==1) { 
+            setInterval(function () {
+                $.ajax({
+                    url: '@Url.Action("Retrieve", "Status")',
+                    type: "POST",
+                    success: function (result) {
+                        $('#status').html(result);
+                    },
+                    error: function (result) { alert("Problem Occured"); },
+                });
+            }, 60000);
+        } 
+        else{
+            alert("The status call has been inititated and will refreash every minute."); 
+        } 
+    </script>
+</body>
+</html>
